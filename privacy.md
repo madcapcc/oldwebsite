@@ -23,9 +23,9 @@ Nous recevons des données utilisateurs par nos partenaire organisateurs d'évé
 Madcap collecte également des informations sur la manière dont vous utilisez les Services.
 
 #### Profil
-Nous recevois des informations de base sur votre profil, telles que votre nom, votre adresse e-mail, votre date de naissance, votre sexe, qui permettent de sécuriser et de vous fournir l'accès à nos Services.
+Nous recevons des informations de base sur votre profil, telles que votre nom, votre adresse e-mail, votre date de naissance, votre sexe, qui permettent de sécuriser et de vous fournir l'accès à nos Services.
 
-Des informations sur votre profil, votre activité et votre utilisation sont collectées lorsque vous choisissez de télécharger une photo, une vidéo, une publication ou une activité (y compris les informations de date, d'heure et de géolocalisation ainsi que votre vitesse, votre rythme et l'effort perçu), ajoutez l'utilisation de votre équipement, affichez les activités des autres ou utilisez les services d'une autre manière.
+Des informations sur votre profil, votre activité et votre utilisation sont collectées lorsque vous choisissez de télécharger une photo, une vidéo, une publication ou une activité (y compris les informations de date, d'heure et de géolocalisation ainsi que votre vitesse et votre rythme), ajoutez l'utilisation de votre équipement, affichez les activités des autres ou utilisez les services d'une autre manière.
 
 Nous utilisons vos coordonnées afin de pouvoir vous contacter en cas de besoin. Par exemple, pour répondre à vos demandes d’assistance.
 ​
@@ -51,7 +51,7 @@ Nous utilisons les informations que nous collectons et recevons pour fournir les
 
 Suivre un événement, afin de voir l'évolution des différents participants sur le carte.
 Évaluer le classement des différents participants lors de ce même événement.
-Créer des statistiques sur de nombreux axes de données et différents temporalités, permettant une analyse fine des efforts, mais aussi leur partage, et aussi la comparaison avec un autre participant.
+Créer des statistiques sur de nombreux axes de données et différentes temporalités, permettant une analyse fine des efforts, mais aussi leur partage, et aussi la comparaison avec un autre participant.
 
 Sous réserve de vos contrôles de confidentialité, vos informations, y compris des parties de votre profil, votre nom d'utilisateur, vos photos/vidéos, les utilisateurs que vous suivez et qui vous suivent, vos événements, les appareils que vous utilisez seront partagés sur MadCap afin que vous puissiez participer aux Services, par exemple pour afficher votre place dans un classement. Certaines informations (par exemple, votre nom et certaines informations de profil) sont également disponibles pour les non-utilisateurs sur nos services. Vos informations de localisation précises, telles que l'endroit où vous roulez, seront également être partagées sur MadCap ou avec des non-utilisateurs, conformément à vos contrôles de confidentialité.
 

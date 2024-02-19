@@ -1,0 +1,4 @@
+for i in *.md;
+do
+  grip $i --export $(echo $i | sed 's,md$,html,g')
+done
